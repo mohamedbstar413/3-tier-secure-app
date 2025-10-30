@@ -299,5 +299,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Note**: This is a development configuration. For production deployments, ensure proper security hardening, monitoring, and backup strategies are in place.
-
